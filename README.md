@@ -6,6 +6,9 @@ Apk Drive Link  https://drive.google.com/drive/folders/1YrOdsfn7ONQ8FooFubu01iqv
   - Sign Up
   - Sign In
   - Logout
+ 
+  - - **State Management :**
+  - GETX State Managment 
 
 - **User Session Handling:**
   - Persistent user login sessions
